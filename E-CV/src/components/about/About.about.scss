@@ -1,3 +1,10 @@
-div{
+#about{
+    height: 100vh;
     background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 150px;
+    animation: fadeIn 5s;
 }

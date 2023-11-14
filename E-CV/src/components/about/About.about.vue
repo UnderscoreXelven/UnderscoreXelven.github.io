@@ -1,5 +1,5 @@
 <template>
-    <div>Bonjour</div>
+    <div id="about">{{ $t('message.hello') }}</div>
 </template>
 
 <script src="./About.about.js"></script>
